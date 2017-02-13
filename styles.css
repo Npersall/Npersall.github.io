@@ -1,0 +1,90 @@
+body{
+
+background-color: grey;
+max-width: 830px;
+color: white;
+}
+h1{
+
+  margin-left: auto
+margin-right: auto
+width: 50%;
+  font-family: helvetica;
+ color: lightblue;
+  
+}
+.intro {
+  width: : 50%
+}
+h2{
+  margin-left: auto
+margin-right: auto
+width: 50%;
+  font-family: helvetica;
+ color: lightblue;
+}
+img {
+  margin-left:5px;
+  
+  width: 100%
+}
+p{
+  max-width: 80%
+}
+section {
+font-family: helvetica;
+ border-top-width: 15px;
+ border-top-color: grey;
+ display: inline-block;
+ 
+
+}
+.other_places{
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-bottom: 10px;
+}
+ul {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-bottom: 10px;
+}
+}
+strong{
+  color:red;
+  font-weight: bold;
+}
+
+table{
+  display: inline-block;
+  margin-left: 100px;
+
+
+}
+
+.other_websites{ 
+  
+  font-family: ariel;
+  display: inline-block;
+  margin-left: 100px;
+
+
+}
+
+h3{
+  font-family: helvetica;
+ color: lightblue;
+}
+
+#other_websites_title{ 
+  margin-left: 200px;
+}
+footer{
+    margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-bottom: 10px;
+}
+}
